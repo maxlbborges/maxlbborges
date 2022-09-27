@@ -1,7 +1,7 @@
 Sobre mim:
 ------------------
  
- Olá! Seja bem vindo ao meu GitHub! Atualmente sou Analista de Testes Jr. na Empresa SIAGRI, tenho 22 anos (no momento de confecção dessa apresentação) e pretendo registrar meus aprendizados e projetos aqui.
+ Olá! Seja bem vindo ao meu GitHub! Atualmente sou Analista de Testes Jr. na Empresa SIAGRI, tenho 24 anos (no momento de confecção dessa apresentação) e pretendo registrar meus aprendizados e projetos aqui.
 
 - Você pode me encontrar no LinkedIn na seguinte URL: https://www.linkedin.com/in/max-leandro-barbosa-borges-865a12187/
 
