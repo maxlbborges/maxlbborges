@@ -1,7 +1,7 @@
 Sobre mim:
 ------------------
  
- Olá! Seja bem vindo ao meu GitHub! Atualmente sou Engenheiro de Qualidade na Empresa ALIARE, tenho 27 anos (no momento de confecção dessa apresentação) e pretendo registrar meus aprendizados e projetos aqui.
+ Olá! Seja bem vindo ao meu GitHub! Atualmente sou Engenheiro de Qualidade, tenho 27 anos (no momento de confecção dessa apresentação) e pretendo registrar meus aprendizados e projetos aqui.
 
 - Você pode me encontrar no LinkedIn na seguinte URL: https://www.linkedin.com/in/max-leandro-barbosa-borges-865a12187/
 
